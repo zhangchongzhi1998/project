@@ -1,0 +1,10 @@
+body{background-color: #F6F6F6;}
+.font_sm{font-size: 0.8rem;}
+a{text-decoration: none;}
+a:hover{text-decoration: none;}
+.progress-bar{
+    transition:all 0.5s ease;
+}
+.progress-bar:hover{
+    transform:scale(1.1);
+}

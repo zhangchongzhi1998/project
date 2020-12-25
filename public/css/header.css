@@ -1,0 +1,50 @@
+.container-fluid{
+    width: 100%;
+    background: #fff;
+    margin-bottom: 17px;
+}
+#header_top a{
+    font-size: 14px;
+    color: #999999;
+    text-decoration: none;
+}
+#header_top a:hover,.navbar-nav a:hover{
+    color: #71B8DC;
+}
+.logo img{
+    width: 160px;
+    height: 55px;
+    border-radius: 5%;
+    margin-left: -23px;
+}
+.navbar{padding: 0;}
+.navbar a{
+    margin-left: 25px;
+    color: #999999;
+    text-decoration: none;
+    font-size: 15px;
+}
+.bg-dark {
+    background-color: #fff !important;
+}
+.caret{
+    display: inline-block;
+    width: 0;
+    height: 6px;
+    margin-left: 2px;
+    vertical-align: middle;
+    border-top: 4px dashed;
+    border-top: 4px solid\9;
+    border-right: 4px solid transparent;
+    border-left: 4px solid transparent;
+}
+.dropdown-menu{
+    text-align: center;
+    min-width: 100px;
+}
+.decrible1{
+    background: url(/public/img/weixin.png ) no-repeat 11px 4px;
+}
+.decrible2{
+    background: url(/public/img/weixin.png ) no-repeat 11px -23px;
+}
